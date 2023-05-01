@@ -338,3 +338,7 @@ footer p {
     margin-bottom: 0;
   }
 }
+.move {
+  position: relative;
+  top: 7px;
+}
